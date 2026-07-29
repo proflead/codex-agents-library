@@ -1,4 +1,4 @@
-<img width="1774" height="887" alt="Codex Agents Library" src="https://github.com/user-attachments/assets/daa09cf3-f66e-447a-8135-54376fb42189" />
+<img width="1774" height="887" alt="Codex Agents Library" src="https://github.com/user-attachments/assets/8ce0f103-5461-4473-a831-8bdcaf34d13c" />
 
 # Codex Agents/Subagents Library
 
