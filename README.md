@@ -1,4 +1,4 @@
-![Codex Subagent Library thumbnail](assets/repository-thumbnail.png)
+<img width="1774" height="887" alt="Codex Agents Library" src="https://github.com/user-attachments/assets/daa09cf3-f66e-447a-8135-54376fb42189" />
 
 # Codex Agents/Subagents Library
 
